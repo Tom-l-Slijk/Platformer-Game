@@ -1073,7 +1073,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 678905994}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -17.68, y: 27.17, z: 0}
+  m_LocalPosition: {x: 12.23, y: 24.76, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 855586687}
@@ -1100,6 +1100,8 @@ MonoBehaviour:
   idleStateData: {fileID: 11400000, guid: 7527b9ff491f36a4e95bf7d49c80a1a9, type: 2}
   moveStateData: {fileID: 11400000, guid: fc57b55c25a162d45ac5fe17810d5593, type: 2}
   playerDetectedStateData: {fileID: 11400000, guid: 7b6dc01ab07acca4b99e3328c0e3b078, type: 2}
+  chargeStateData: {fileID: 11400000, guid: 654f10326c351f8478f264c74b49fe8c, type: 2}
+  lookForPlayerStateData: {fileID: 11400000, guid: 5939ad2b2a45ede44838d58152127269, type: 2}
 --- !u!1 &687980254
 GameObject:
   m_ObjectHideFlags: 0
@@ -1335,7 +1337,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 855586686}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.266, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1869410763}
